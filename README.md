@@ -1,3 +1,3 @@
 ﻿# my-first-project1
 
-hi iam here learning git
+new details 
